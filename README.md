@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently currently completing the remaining curricular units of a Computer Science degree at the University of Minho<br><br>👯 I’m looking to collaborate on companies who deal with data (but I'm very open minded)<br><br>🤝 I’m looking for help with gaining experience and finding an intership or part-time job while I finish my studies<br><br>🌱 I’m currently learning front-end development (HTML/CSS & JavaScript)<br><br>⚡ Fun fact: I'm developing a dream project
 
 
