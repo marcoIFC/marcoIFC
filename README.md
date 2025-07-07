@@ -1,5 +1,5 @@
 # 🚀 About Me:
-🎓 I'm currently completing the final curricular units of my **Computer Science** degree at the **University of Minho** <br><br> 🤝 Looking for an **internship** or **part-time job** to gain real-world experience while finishing my studies <br><br> 👨‍💻 Passionate about **data**, but open to collaborating on all kinds of tech projects <br><br> 🌱 Currently learning **front-end development** (HTML, CSS & JavaScript) <br><br> 💡 Fun fact: I'm building my **dream project**—stay tuned!
+🎓 I'm currently completing the final curricular units of my **Computer Science** degree at the **University of Minho** <br><br> 🤝 Looking for an **internship** or **part-time job** to gain real-world experience while finishing my studies <br><br> 👨‍💻 Passionate about **data**, but open to collaborating on all kinds of tech projects <br><br> 🌱 Currently learning **front-end development** (HTML, CSS & JavaScript) <br><br> 💡 Fun fact: I'm working on a dream project that I’m really passionate about!
 
 
 ## 🌐 Socials:
